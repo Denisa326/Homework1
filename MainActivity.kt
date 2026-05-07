@@ -19,6 +19,7 @@ fun main(){
     val age : Int=20
     println(" Hi $name,$age")
 
+
     //2.Null safety
     var b: String?=null
     val l=b?.length ?:-1
@@ -69,3 +70,4 @@ fun main(){
 fun multiply(a: Int, b: Int): Int {
       return a * b
   }
+//kotlin
