@@ -8,7 +8,6 @@ package com.example.session2
             println("Animal sound")
         }
 
-
         fun main() {
 
             // EX 1
